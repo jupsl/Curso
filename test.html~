@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Curso Pri 2014</title>
+</head>
+<body>
+<h1>CURSO HTML 5! -------</h1>
+<p>esto es un párrafo que decidi escribir para poder llenar un espacio
+en el resto de la pagina en blanco</p>
+<p>
+existen cuatro etiquetas para distinguir un html:
+</p>
+<ul>
+<li>id
+<ul>
+<li>Sirve para identificar un elemento en el documento</li>
+</ul>
+</li>
+<li>class
+<ul>
+<li>
+Sirve para clasificar un conjunto de elentos en el documento para utilizarlos con javascript o css
+</li>
+</ul>
+</li>
+<li>title
+<ul>
+<li title="Sirve para desplegar un globito de descripcion">Sirve para desplegar un globito de descripcion</li>
+</ul>
+</li>
+<li>style
+<ul>
+<li style="color:red;background-color:#FFFF99;">Propiedades de estilo como cambiar el color rojo</li>
+</ul>
+</li>
+</ul>
+<p>
+para definir el estilon tambien existen etiquetas tales como:
+</p>
+<ul>
+<li>&lt;b&gt;
+<ul>
+<li>bold</li>
+</ul>
+</li>
+<li>&lt;i&gt;
+<ul>
+<li>Italic</li>
+</ul>
+</li>
+<li>&lt;srtrong&gt;</li>
+</ul>
+</body>
+<p>Etiquetas para maquetar en html5</p>
+<ul>
+<li>header</li>
+<li>nav</li>
+<li>aside</li>
+<li>section</li>
+<li>footer</li>
+<li>article</li>
+</ul>
+
+</html>
